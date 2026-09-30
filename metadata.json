@@ -1,0 +1,7 @@
+{
+  "name": "A Letter That Took 3 Years",
+  "description": "A soft, romantic unfolding digital letter celebrating three years of love, with story-linked dual-track ambient music and live anniversary counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
